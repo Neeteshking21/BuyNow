@@ -1,0 +1,17 @@
+.navbar_container{
+    background-color: black;
+    height: 8vh;
+    width:100vw;
+    position: fixed;
+    display:flex;
+    flex-wrap: wrap;
+    justify-content:space-between;
+    padding:20px;
+    
+}
+.navbar_items{
+    /* background-color: #E6425E */color:white
+}
+#navbar_item3{
+    margin-right: 100px;
+}
